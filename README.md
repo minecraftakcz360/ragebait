@@ -1,4 +1,6 @@
-<a href="https://minecraftakcz360.github.io/ragebait" align="center">CLICK HERE</a>****
+<div align="center">
+  <a href="https://minecraftakcz360.github.io/ragebait">CLICK HERE</a>
+</div>
 
 <p align="center">
   <img src="https://c.tenor.com/OMRZEJWO16IAAAAd/tenor.gif" alt="GIF" width="400">
