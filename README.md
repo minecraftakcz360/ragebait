@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://minecraftakcz360.github.io/ragebait">CLICK HERE</a>
+  <a href="https://minecraftakcz360.github.io/ragebait" target="_blank">CLICK HERE</a>
 </div>
 
 <p align="center">
